@@ -4,7 +4,9 @@
 [![Medium Badge](https://img.shields.io/badge/-@GovindSinghSolanki-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gssolanki30/)](https://medium.com/@gssolanki30/)
 [![Gmail Badge](https://img.shields.io/badge/-gssolanki30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gssolanki30@gmail.com)](mailto:gssolanki30@gmail.com)
 [![Website](https://img.shields.io/badge/-Govind's_Portfolio-556b2f?style=circle&link=https://kartikey-dubey.vercel.app/)](https://kartikey-dubey.vercel.app/)
-[![GitHub followers](https://img.shields.io/github/followers/GovindSinghSolanki?label=Follow&style=social)](https://github.com/Govind-Singh-Solanki/?tab=
+[![GitHub followers](https://img.shields.io/github/followers/GovindSinghSolanki?label=Follow&style=social)](https://github.com/Govind-Singh-Solanki/?tab=follow)
+---
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=GovindSinghSolanki" alt="Govind" /> </p></br> -->
 
 ## Hi there 👋,           
