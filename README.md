@@ -3,7 +3,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@GovindSinghSolanki-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/govind_30)](https://twitter.com/govind_30) [![Linkedin Badge](https://img.shields.io/badge/-GovindSinghSolanki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/govind-singh-solanki/)](https://www.linkedin.com/in/govind-singh-solanki/) 
 [![Medium Badge](https://img.shields.io/badge/-@GovindSinghSolanki-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gssolanki30/)](https://medium.com/@gssolanki30/)
 [![Gmail Badge](https://img.shields.io/badge/-gssolanki30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gssolanki30@gmail.com)](mailto:gssolanki30@gmail.com)
-[![Website](https://img.shields.io/badge/-Govind's_Portfolio-556b2f?style=circle&link=https://kartikey-dubey.vercel.app/)](https://kartikey-dubey.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/GovindSinghSolanki?label=Follow&style=social)](https://github.com/Govind-Singh-Solanki/?tab=follow)
 ---
 
@@ -79,7 +78,6 @@ I love to spend time with techy stuff and exploring new things and people.
     <a href="https://twitter.com/govind_30" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/govind-singh-solanki/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:gssolanki30@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-       <a href="https://kartikey-dubey.vercel.app/" alt="My portfolio"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
   <p align="center">  
      <img align="center" src="https://komarev.com/ghpvc/?username=GovindSinghSolanki"> 
