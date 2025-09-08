@@ -9,7 +9,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=GovindSinghSolanki" alt="Govind" /> </p></br> -->
 
 ## Hi there 👋,           
-I'm Govind Singh Solanki, a final Year Computer Science Engineering Undergrad  at 👨‍💻 JECRC University.  I am a tech and coding enthusiasts, would love to be a Full Stack Web Developer and would like to see myself as a Software Developer in my future. 
+I'm Govind Singh Solanki, Salesforce Developer  at 👨‍💻 Accenture.
 I love to spend time with techy stuff and exploring new things and people.
 
 ## 🧐 About
@@ -26,7 +26,7 @@ I love to spend time with techy stuff and exploring new things and people.
 - 💬 Ask me about anything and everything anytime !! 
 - 📫 How to reach me: ping me on[Whatsapp](https://wa.me/917425858072) or <a href="https://kartikey-dubey.vercel.app/"> Visit My Portfolio </a>
 - ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older then me  and also I am a foody person who likes to explore new places and know different cultures! 
-- 💬 Ping Me about #Web Development, #Basic App Development, #C-Language, #C++, #DataStructure and Algorithms, #speaking opportunity, and anything you like.
+- 💬 Ping Me about #salesforce_development, #HTML, #CSS, #JS, #DataStructure and Algorithms, #speaking opportunity, and anything you like.
 ---
 **Languages and Tools:**  
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
